@@ -1,0 +1,62 @@
+baseurl: "https://lizhuofan95.github.io/"
+languageCode: "en-us"
+defaultContentLanguage: "en"
+# defaultContentLanguage: "zh"
+title: "Zhuofan Li"
+theme: "hugo-prose"
+googleAnalytics: ""
+disqusShortname: ""
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$", "sitemap.md"]
+footnotereturnlinkcontents: "↩"
+paginate: 6
+
+permalinks:
+  post: "/post/:year/:month/:day/:slug/"
+
+outputs:
+  home: [html, rss, json]
+
+# some menu items were added via the `menu` option in YAML in posts
+menu:
+  header:
+    - name: GitHub
+      url: "https://github.com/lizhuofan95"
+      weight: 7
+  footer:
+    - name: Categories
+      url: "/categories/"
+      weight: 2
+      pre: "optional"
+    - name: Tags
+      url: "/tags/"
+      weight: 3
+      pre: "optional"
+      identifier: "menu-edit"
+    - name: Back to top
+      url: "#"
+
+params:
+  homePosts: 6
+  mainSections: ["post", "work"]
+  editLink: ""
+  authorDelimiter: " / "
+  pageFeatures: [+sidenotes]
+  description: >
+    Zhuofan Li's personal website, built with the hugo-prose theme.
+  footer: >
+    &copy; Zhuofan Li
+    2022
+  license: >
+    All content is licensed under [Creative Commons Attribution CC BY 
+    4.0](https://creativecommons.org/licenses/by/4.0/). The website is 
+    built with [Hugo-prose](https://github.com/yihui/hugo-prose) and 
+    [blogdown](https://github.com/rstudio/blogdown), both created by 
+    [Yihui Xie](https://yihui.org/). The original source code is licensed 
+    under MIT and available at https://github.com/yihui/hugo-prose. 
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
