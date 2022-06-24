@@ -1,0 +1,3 @@
+[submodule "themes/hugo-prose"]
+	path = themes/hugo-prose
+	url = https://github.com/yihui/hugo-prose.git
