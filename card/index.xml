@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cards on Zhuofan Li</title>
+    <link>https://lizhuofan95.github.io/card/</link>
+    <description>Recent content in Cards on Zhuofan Li</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://lizhuofan95.github.io/card/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://lizhuofan95.github.io/card/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lizhuofan95.github.io/card/research/</guid>
+      <description>A computational sociologist of knowledge, power, organizations, and networks, I am most interested in how scientists and tech companies methodize and capitalize knowledge about human behavior at the intersection of big data, open science, and commercialization.
+To answer this question, my research intersects network analysis, sociology and history of science, organizational theory, economic sociology, cultural sociology, and computational social science.
+My dissertation examines how corporate participation in open science recasts the transnational, interorganizational techno-social-semantic network and temporalities of researchers in computer vision, a subfield of artificial intelligence that mobilizes massive human behavioral and biometric data and is changing human society in many ways.</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://lizhuofan95.github.io/card/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lizhuofan95.github.io/card/teaching/</guid>
+      <description>In addition to teaching in my substantive and methodological specialties, I am a strong proponent for proactively preparing sociologists for the future convergence, as my own reseasrch suggests, (a) of social science and computer science and (b) of industry and academic careers.
+Relevant training can be integrated into the existing intro-theory-stats-methods sequence at both undergraduate and graduate levels:
+ Sociological theory of big data and for big data Computational literacy and toolkits for social scientists Hidden curriculum in open science, team science, data collection and management, interdisciplinarity, and industry careers  </description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vtae</title>
+      <link>https://lizhuofan95.github.io/card/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lizhuofan95.github.io/card/cv/</guid>
+      <description>td, th {border: none!important;}Education 2018-2024PhD in Sociology, The University of Arizona, Tucson, AZ &amp;emsp;&amp;emsp; Graduate Certificate in Computational Social Science (2021) &amp;emsp;&amp;emsp; Exam areas: Organizations and Work, Social Networks 2014-2018BA in Sociology, magna cum laude, Franklin &amp; Marshall College, Lancaster, PARecent Work  Li, Zhuofan and Corey Abramson. &amp;ldquo;Combining Machine Learning and Ethnographic Research&amp;rdquo; in Oxford Handbook of the Sociology of Machine Learning edited by Juan Pablo Pardo-Guerra and Christian Borch.</description>
+    </item>
+    
+  </channel>
+</rss>
