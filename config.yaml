@@ -46,6 +46,7 @@ params:
   footer: >
     &copy; Zhuofan Li
     2022
+    with Hugo-prose and blogdown
   license: >
     All content is licensed under [Creative Commons Attribution CC BY 
     4.0](https://creativecommons.org/licenses/by/4.0/). The website is 
