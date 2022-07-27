@@ -4,7 +4,6 @@
 &lt;li>
 &lt;p>&lt;strong>Corporate Open Science&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Advances in the computational sciences and data-driven technology are increasingly produced by researchers affiliated with corporate laboratories, researchers who nevertheless use and contribute to open-source toolkits, open collaborative platforms, and open access repositories of papers, code, and datasets such as &lt;em>arXiv&lt;/em> and &lt;em>GitHub&lt;/em>. In the field of computer vision, where a wide range of human behavioral and biometric data are at stake, more than 40% of all papers published at top conferences include authors with corporate affiliations, and more than 1/3 were implemented under open-source frameworks created and maintained at Google and Facebook. This rise of corporate participation in not only the commercialization but also the more &amp;ldquo;open&amp;rdquo; production and circulation of scientific knowledge and scientific labor calls for attention to the new organizational forms of commercialized open science.&lt;/li>
 &lt;li>Draws on text and network data from &lt;em>ArXiv&lt;/em>, &lt;em>GitHub&lt;/em>, and in-depth interviews with clusters of researchers and organizations, my dissertation traces how corporate participation in open science recasts the knowledge infrastructure of computer vision, a rapidly commercializing subfield of artificial intelligence that mobilizes massive human behavioral and biometric data and has potentially transformative consequences on surveillance and stratification. This research has been supported by a SBS Summer Dissertation Fellowship from the College of Social and Behavioral Sciences at the University of Arizona.&lt;/li>
 &lt;/ul>
 &lt;/li>
@@ -27,6 +26,7 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ol></description></item><item><title>Resources</title><link>https://lizhuofan95.github.io/resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lizhuofan95.github.io/resources/</guid><description>
+&lt;p>Things I found useful and fun for computational sociologists (mostly open source).&lt;/p>
 &lt;h2 id="software">Software&lt;/h2>
 &lt;p>Paperpile: A browser-based reference manager that downloads PDFs and saves notes and annotations to Google Drive
 [&lt;a href="https://paperpile.com/features/">website&lt;/a>]&lt;/p>
@@ -63,29 +63,4 @@
 &lt;p>Writing Proposals for ACLS Fellowship Competitions by Christina M. Gillis
 [&lt;a href="https://www.acls.org/wp-content/uploads/2021/10/Writing-Fellowship-Proposals-1.pdf">PDF&lt;/a>]&lt;/p>
 &lt;p>An Essay on the Art of Reviewing by Myra Marx Ferree
-[&lt;a href="https://www.ssc.wisc.edu/gender/wp-content/uploads/2014/04/Myras-Tipsheet0804.pdf">PDF&lt;/a>]&lt;/p></description></item><item><title>Teaching</title><link>https://lizhuofan95.github.io/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lizhuofan95.github.io/teaching/</guid><description>
-&lt;h3 id="current-courses">Current Courses:&lt;/h3>
-&lt;ol>
-&lt;li>&lt;em>Introduction to Sociology&lt;/em> [syllabus] [website]&lt;/li>
-&lt;/ol>
-&lt;p style="margin-left:5%"> This course introduces the field of sociology, with a special focus on sociological methodology. &lt;/p>
-&lt;ol start="2">
-&lt;li>Workshop: &lt;em>Introduction to Machine Learning for Qualitative Research&lt;/em>&lt;/li>
-&lt;/ol>
-&lt;h3 id="under-development">Under Development:&lt;/h3>
-&lt;ol>
-&lt;li>&lt;em>A Computational and Open Science Repertoire for Social Scientists&lt;/em>
-&lt;ul>
-&lt;li>Why computational literacy for social scientists?&lt;/li>
-&lt;li>Command-line interface and file management (Shell)&lt;/li>
-&lt;li>Version control (Git and GitHub)&lt;/li>
-&lt;li>Programming languages, development environments, and packages (R, Python, RStudio, Visual Studio Code, pip/conda, pyenv, virtualenv)&lt;/li>
-&lt;li>Plain-text (Markdown, R Markdown, Knitr, Pandoc)&lt;/li>
-&lt;li>Notebook interface (Jupyter Notebook and Google Colab)&lt;/li>
-&lt;li>Data scraping, data wrangling, and visualization (API, requests+beautifulsoup, tidyverse/pandas, ggplot2/matplotlib)&lt;/li>
-&lt;li>ML basics&lt;/li>
-&lt;li>NLP basics (strings, regular expression, vector semantics)&lt;/li>
-&lt;li>Containerization and cloud computing (Docker, Google Cloud BigQuery, and High Performance Computing)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ol></description></item></channel></rss>
+[&lt;a href="https://www.ssc.wisc.edu/gender/wp-content/uploads/2014/04/Myras-Tipsheet0804.pdf">PDF&lt;/a>]&lt;/p></description></item></channel></rss>
