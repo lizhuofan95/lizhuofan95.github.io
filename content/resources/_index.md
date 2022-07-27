@@ -5,6 +5,8 @@ menu:
     weight: 4
 ---
 
+Things I found useful and fun for computational sociologists (mostly open source). 
+
 ## Software
 
 Paperpile: A browser-based reference manager that downloads PDFs and saves notes and annotations to Google Drive
