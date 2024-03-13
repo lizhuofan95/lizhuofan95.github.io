@@ -1,0 +1,39 @@
+baseurl: "https://lizhuofan95.github.io/"
+languageCode: "en-US"
+title: "Zhuofan Li - Sociologist"
+theme: "hugo-paged"
+googleAnalytics: "G-0Q6TM0KPY2"
+enableRobotsTXT: true
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+hasCJKLanguage: true
+footnotereturnlinkcontents: "↩"
+
+outputs:
+  home: [html, rss, json]
+
+permalinks:
+  en: "/:sections/:year/:month/:slug/"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "CV"
+      url: "/cv.pdf"
+      weight: 4
+
+params:
+  description: "A website built through Hugo with the hugo-paged theme."
+  # logo:
+  #   en:
+  #     alt: ZHUOFAN LI
+  #     img: # a path to the logo
+  footer: "&copy; Zhuofan Li {Year} | Built with [hugo-ivy](https://github.com/yihui/hugo-paged/), created by [Yihui Xie](https://yihui.org)"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
