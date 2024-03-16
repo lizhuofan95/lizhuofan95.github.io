@@ -40,6 +40,6 @@ My current work focuses on (1) how markets and organizations transformed moral o
 
 More broadly, my interests span social networks, economic sociology, sociology and history of science, organizations and work, cultural sociology, theory, and methodology. 
 
-On pleasantly unproductive days, I enjoy detective stories, art crimes, existentialist philosophy, history of science, skiing, and stargazing on GitHub. 
+On pleasantly unproductive days, I enjoy detective stories, skiing, existentialist philosophy, and stargazing on GitHub. 
 
 How to say my name: [/dʒʊɒ-fʌn/](https://www.chinesenamesinenglish.com/wiki/Zhuofan).
