@@ -36,7 +36,7 @@ title: Home
 
 My name is **Zhuofan Li (李卓凡)**. I am a PhD candidate in Sociology at the [University of Arizona](https://sociology.arizona.edu/). 
 
-My current work focuses on (1) how markets and organizations transformed moral orders and open science into knowledge infrastructure for surveillance and stratification in digital capitalism, and (2) how machine learning with network, language, visual, and geospatial data can open up new theoretical and methodological frontiers for sociologists. 
+My current work focuses on (1) the rise of corporate open science as knowledge infrastructure for surveillance capitalism, and (2) how machine learning can help sociologists translate network, language, visual, and geospatial data into theoretical insights. 
 
 More broadly, my interests span social networks, economic sociology, sociology and history of science, organizations and work, cultural sociology, theory, and methodology. 
 
