@@ -36,10 +36,10 @@ title: Home
 
 My name is **Zhuofan Li (李卓凡)**. I am a PhD candidate in Sociology at the [University of Arizona](https://sociology.arizona.edu/). 
 
-My current work focuses on (1) the rise of corporate open science as knowledge infrastructure for surveillance capitalism, and (2) how machine learning can help sociologists translate network, language, visual, and geospatial data into theoretical insights. 
+I have been trained to be a network analyst, relational theorist, and computational methodologist. But I'm most jealous of people who have the talent of a historian. 
 
-More broadly, my interests span social networks, economic sociology, sociology and history of science, organizations and work, cultural sociology, theory, and methodology. 
+My current work helps people understand digital capitalism through the lens of an interesting paradox called corporate open science, and helps social scientists translate network, language, visual, and geospatial data into theoretical insights. 
 
-On pleasantly unproductive days, I enjoy detective stories, skiing, existentialist philosophy, and stargazing on GitHub. 
+On pleasantly unproductive days, I enjoy reading existentialists and detective novelists, skiing, and stargazing on GitHub. 
 
-How to say my name: [/dʒʊɒ-fʌn/](https://www.chinesenamesinenglish.com/wiki/Zhuofan).
+How to say my name: [/dʒʊɒ-fʌn/](https://www.chinesenamesinenglish.com/wiki/Zhuofan). 
