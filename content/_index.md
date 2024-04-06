@@ -38,8 +38,6 @@ My name is **Zhuofan Li (李卓凡)**. I am a PhD candidate in Sociology at the 
 
 My current work helps people understand digital capitalism through the lens of an interesting paradox called corporate open science, and helps social scientists translate network, language, visual, and geospatial data into theoretical insights. 
 
-I've been trained to be a network analyst, relational theorist, and computational methodologist. But I'm most jealous of people who have the talent of a historian. 
-
 On pleasantly unproductive days, I enjoy reading detective stories and existentialists, skiing, and stargazing on GitHub. 
 
 How to say my name: [/dʒʊɒ-fʌn/](https://www.chinesenamesinenglish.com/wiki/Zhuofan). 
