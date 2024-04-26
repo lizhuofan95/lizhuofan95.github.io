@@ -40,4 +40,4 @@ My current work helps people understand digital capitalism through the lens of a
 
 On pleasantly unproductive days, I enjoy reading detective stories and existentialists, skiing, and stargazing on GitHub. 
 
-How to say my name: [/dʒʊɒ-fʌn/](https://www.chinesenamesinenglish.com/wiki/Zhuofan). 
+How to say my name: /Jwo-fun/, or check out this [website](https://www.chinesenamesinenglish.com/wiki/Zhuofan). 
