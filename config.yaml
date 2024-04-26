@@ -29,7 +29,7 @@ params:
   #   en:
   #     alt: ZHUOFAN LI
   #     img: # a path to the logo
-  footer: "&copy; Zhuofan Li {Year} | Built with [hugo-paged](https://github.com/yihui/hugo-paged/), created by [Yihui Xie](https://yihui.org)"
+  footer: "&copy; Zhuofan Li {Year} | Built through Hugo with [hugo-paged](https://github.com/yihui/hugo-paged/) by [Yihui Xie](https://yihui.org) and [Alegreya](https://www.huertatipografica.com/en/fonts/alegreya-ht-pro) by [Juan Pablo del Peral](https://www.huertatipografica.com/en/about)."
 
 markup:
   highlight:
