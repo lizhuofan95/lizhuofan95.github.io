@@ -12,7 +12,7 @@ I don't want to admit he was right, so now I try to do the opposite -- reimagine
 
 -->
 
-### Surveillance Capitalism
+### Digital Capitalism
 
 (or the economic sociology behind the AI hype)
 
@@ -20,7 +20,7 @@ I don't want to admit he was right, so now I try to do the opposite -- reimagine
 
 **How** does open science consolidate rather than undermine corporate power over artificial intelligence (and all the hype about it)?
 
-**How** does surveillance capitalism revise Weber's thesis of rationalization and Foucault's idea of governmentality?
+**How** does digital capitalism revise Weber's thesis of rationalization and Foucault's idea of governmentality?
 
 <br />
 

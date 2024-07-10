@@ -34,10 +34,10 @@ title: Home
 }
 </style>
 
-My name is **Zhuofan Li (李卓凡)**. I am a PhD candidate in Sociology at the [University of Arizona](https://sociology.arizona.edu/). 
+My name is **Zhuofan Li (李卓凡)**, and I am an Assistant Professor in the Department of Sociology at Virginia Tech. I received my PhD in Sociology from the University of Arizona in Summer 2024. 
 
-My current work helps people understand digital capitalism through the lens of an interesting paradox called corporate open science, and helps social scientists translate network, language, visual, and geospatial data into theoretical insights. 
+My current research helps people understand digital society and its relationship with capitalism, knowledge, and power through an interesting paradox called corporate open science. My methodological work helps translate network, language, visual, and geospatial data into theoretical insights. 
 
-On pleasantly unproductive days, I enjoy reading detective stories and existentialists, skiing, and stargazing on GitHub. 
+On pleasantly unproductive days, I enjoy reading detective stories, skiing, and stargazing on GitHub. 
 
-How to say my name: /Jwo-fun/, or check out this [website](https://www.chinesenamesinenglish.com/wiki/Zhuofan). 
+How to say my name: Zhuofan /Jwo-fahn/, or check out this [website](https://www.chinesenamesinenglish.com/wiki/Zhuofan). 

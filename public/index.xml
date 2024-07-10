@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Zhuofan Li - Sociologist</title>
+    <link>/</link>
+    <description>Recent content in Home on Zhuofan Li - Sociologist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Digital Capitalism (or the economic sociology behind the AI hype)
+How does the market construct facial recognition technology as a legitimate commodity?
+How does open science consolidate rather than undermine corporate power over artificial intelligence (and all the hype about it)?
+How does digital capitalism revise Weber&amp;rsquo;s thesis of rationalization and Foucault&amp;rsquo;s idea of governmentality?
+Computational Social Science (or the shoe leather and linear algebra behind the AI hype)</description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>Undergraduate Introduction to Sociology [Syllabus] Sociology of Work [Syllabus] Digital Sociology Workshops Machine Learning for Qualitative Sociology [Repository] </description>
+    </item>
+    
+  </channel>
+</rss>

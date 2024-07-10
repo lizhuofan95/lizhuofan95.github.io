@@ -12,6 +12,8 @@ menu:
 
 #### Sociology of Work [[Syllabus](/soc326.pdf)]
 
+#### Digital Sociology
+
 ### Workshops
 
 #### Machine Learning for Qualitative Sociology [[Repository](https://github.com/lizhuofan95/ASA2022_Workshop/tree/main)]
