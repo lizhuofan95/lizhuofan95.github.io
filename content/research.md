@@ -30,7 +30,9 @@ I don't want to admit he was right, so now I try to do the opposite -- reimagine
 
 **How** can we leverage large language models not to substitute, but to advance ethnographic methods?
 
-**How** can we study text as networks?
+**How** can we make word embeddings more interpretable?
+
+**How** can we measure brokerage in hypergraphs?
 
 <br />
 

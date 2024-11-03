@@ -8,11 +8,15 @@ menu:
 
 ### Undergraduate
 
-#### Introduction to Sociology [[Syllabus](/soc101.pdf)]
+#### Introduction to Sociology [[Syllabus](/UGintroSP25.pdf)]
 
-#### Sociology of Work [[Syllabus](/soc326.pdf)]
+#### Sociology of Work [[Syllabus](/UGwork.pdf)]
 
-#### Digital Sociology
+#### Digital Sociology [[Syllabus](/UGdigitalFA24.pdf)]
+
+### Graduate
+
+#### Digital Sociology [[Syllabus](/GdigitalSP25.pdf)]
 
 ### Workshops
 
