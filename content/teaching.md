@@ -16,7 +16,7 @@ menu:
 
 ### Graduate
 
-#### Digital Sociology [[Syllabus](/GdigitalSP25.pdf)]
+#### Digital Sociology [Syllabus]
 
 ### Workshops
 
