@@ -12,36 +12,36 @@ I don't want to admit he was right, so now I try to do the opposite -- reimagine
 
 -->
 
-### Digital Capitalism
+### An Economic Sociology of the AI Hype
 
-(or the economic sociology behind the AI hype)
+Li, Zhuofan. 2024. “When Being a Data Annotator Was Not Yet a Job: The Laboratory Origins of Dispersible Labor in Computer Vision Research.” *Socius* 10:23780231241259617. DOI: [10.1177/23780231241259617](https://doi.org/10.1177/23780231241259617).
 
-**How** does the market construct facial recognition technology as a legitimate commodity?
-
-**How** does open science consolidate rather than undermine corporate power over artificial intelligence (and all the hype about it)?
-
-**How** does digital capitalism revise Weber's thesis of rationalization and Foucault's idea of governmentality?
 
 <br />
 
-### Computational Social Science
+### Computational Social Science and Shoe Leather
 
-(or the shoe leather and linear algebra behind the AI hype)
+#### How can we leverage large language models not to substitute, but to advance ethnographic methods?
 
-**How** can we leverage large language models not to substitute, but to advance ethnographic methods?
+Li, Zhuofan, and Corey M. Abramson. 2025. “Ethnography and Machine Learning.” Pp. 245–72 in *The Oxford Handbook of the Sociology of Machine Learning*, edited by Christian Borch and Juan Pablo Pardo-Guerra. Oxford University Press. DOI: [10.1093/oxfordhb/9780192895460.013.12](https://doi.org/10.1093/oxfordhb/9780192895460.013.12).
 
-**How** can we make word embeddings more interpretable?
+Abramson, Corey M., Zhuofan Li, Tara Prendergast, and Martín Sánchez-Jankowski. 2024. “Inequality in the Origins and Experiences of Pain: What ‘Big (Qualitative) Data’ Reveal about Social Suffering in the United States.” The Russell Sage Foundation Journal of the Social Sciences: RSF 10(5):34–65. DOI: [10.7758/RSF.2024.10.5.03](https://doi.org/10.7758/RSF.2024.10.5.03).
 
-**How** can we measure brokerage in hypergraphs?
+Li, Zhuofan, Daniel Dohan, and Corey M. Abramson. 2021. “Qualitative Coding in the Computational Era: A Hybrid Approach to Improve Reliability and Reduce Effort for Coding Ethnographic Interviews.” *Socius* 7:23780231211062345. DOI: [10.1177/23780231211062345](https://doi.org/10.1177/23780231211062345).
+
 
 <br />
 
-### Temporal and Spatial Inequality
+### What do we live through when we live through inequality?
 
-(or what we really live through when we live through inequality)
+TBA
 
-**How** do temporal inequalities translate resource disparities into unequal agency in making life-and-death decisions in cancer clinics?
+<!---
 
-**How** do spatial inequalities shape neighborhood vulnerability to and resilience against crises?
+How do temporal inequalities translate resource disparities into unequal agency in making life-and-death decisions in cancer clinics?
+
+How do spatial inequalities shape neighborhood vulnerability to and resilience against crises?
+
+-->
 
 <br />

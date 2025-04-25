@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Zhuofan Li - Sociologist</title>
+    <link>/</link>
+    <description>Recent content in Home on Zhuofan Li - Sociologist</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/</guid>
+      <description>&lt;!-- When I started high school, I decided I would run away from programming and study some sort of social science like Max Weber did. My teacher, not knowing anything about social science, wanted me to stay, so he proposed that I just try to reimagine whatever social problems I was interested in as programming problems. &#xD;&#xA;&#xD;&#xA;I don&#39;t want to admit he was right, so now I try to do the opposite -- reimagine programming problems as social problems. &#xD;&#xA;&#xD;&#xA;--&gt;&#xD;&#xA;&lt;h3 id=&#34;digital-capitalism&#34;&gt;Digital Capitalism&lt;/h3&gt;&#xA;&lt;p&gt;(or the economic sociology behind the AI hype)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/</guid>
+      <description>&lt;h3 id=&#34;undergraduate&#34;&gt;Undergraduate&lt;/h3&gt;&#xA;&lt;h4 id=&#34;introduction-to-sociology-syllabusugintrosp25pdf&#34;&gt;Introduction to Sociology [&lt;a href=&#34;/UGintroSP25.pdf&#34;&gt;Syllabus&lt;/a&gt;]&lt;/h4&gt;&#xA;&lt;h4 id=&#34;sociology-of-work-syllabusugworkpdf&#34;&gt;Sociology of Work [&lt;a href=&#34;/UGwork.pdf&#34;&gt;Syllabus&lt;/a&gt;]&lt;/h4&gt;&#xA;&lt;h4 id=&#34;digital-sociology-syllabusugdigitalfa24pdf&#34;&gt;Digital Sociology [&lt;a href=&#34;/UGdigitalFA24.pdf&#34;&gt;Syllabus&lt;/a&gt;]&lt;/h4&gt;&#xA;&lt;h3 id=&#34;graduate&#34;&gt;Graduate&lt;/h3&gt;&#xA;&lt;h4 id=&#34;digital-sociology-syllabus&#34;&gt;Digital Sociology [Syllabus]&lt;/h4&gt;&#xA;&lt;h3 id=&#34;workshops&#34;&gt;Workshops&lt;/h3&gt;&#xA;&lt;h4 id=&#34;machine-learning-for-qualitative-sociology-repositoryhttpsgithubcomlizhuofan95asa2022_workshoptreemain&#34;&gt;Machine Learning for Qualitative Sociology [&lt;a href=&#34;https://github.com/lizhuofan95/ASA2022_Workshop/tree/main&#34;&gt;Repository&lt;/a&gt;]&lt;/h4&gt;</description>
+    </item>
+  </channel>
+</rss>
