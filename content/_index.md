@@ -34,7 +34,7 @@ title: Home
 }
 </style>
 
-My name is **Zhuofan Li (李卓凡)**. I am an Assistant Professor of Sociology at Virginia Tech, where I teach digital sociology. I received my PhD in Sociology from the University of Arizona in Summer 2024. 
+My name is **Zhuofan Li (李卓凡)**. I am an Assistant Professor of Sociology at Virginia Tech, where I teach digital sociology. I received my PhD in Sociology from the University of Arizona in Summer 2024.
 
 I am broadly interested in network analysis, economic sociology, organizations and work, science and technology, sociology of culture, and computational social science. My main research agenda helps society better understand the relationship between knowledge and power under digital capitalism through an interesting paradox called *corporate open science*. But I have also studied the moralized market of surveillance technology, temporal misalignment of agency in cancer clinics, laboratory origins of dispersed labor in computer vision, and performativity of tokenism among corporate executives. My methodological work helps translate network, language, visual, and geospatial data into theoretical insights. At Virginia Tech, I teach digital sociology at both undergraduate and graduate levels. 
 
