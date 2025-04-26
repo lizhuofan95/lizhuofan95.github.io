@@ -32,7 +32,7 @@ Li, Zhuofan, Daniel Dohan, and Corey M. Abramson. 2021. “Qualitative Coding in
 
 <br />
 
-### What do we live through when we live through inequality?
+### What Do We Live Through When We Live Through Inequality?
 
 TBA
 
