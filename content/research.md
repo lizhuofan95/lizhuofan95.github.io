@@ -12,16 +12,13 @@ I don't want to admit he was right, so now I try to do the opposite -- reimagine
 
 -->
 
-### An Economic Sociology of the AI Hype
+### Corporate Open Science and the AI Hype
 
 Li, Zhuofan. 2024. “When Being a Data Annotator Was Not Yet a Job: The Laboratory Origins of Dispersible Labor in Computer Vision Research.” *Socius* 10:23780231241259617. DOI: [10.1177/23780231241259617](https://doi.org/10.1177/23780231241259617).
-
 
 <br />
 
 ### Computational Social Science and Shoe Leather
-
-#### How can we leverage large language models not to substitute, but to advance ethnographic methods?
 
 Li, Zhuofan, and Corey M. Abramson. 2025. “Ethnography and Machine Learning.” Pp. 245–72 in *The Oxford Handbook of the Sociology of Machine Learning*, edited by Christian Borch and Juan Pablo Pardo-Guerra. Oxford University Press. DOI: [10.1093/oxfordhb/9780197653609.013.36](https://doi.org/10.1093/oxfordhb/9780197653609.013.36).
 
@@ -32,11 +29,11 @@ Li, Zhuofan, Daniel Dohan, and Corey M. Abramson. 2021. “Qualitative Coding in
 
 <br />
 
-### What Do We Live Through When We Live Through Inequality?
+<!---
+
+### Living Through Inequality in Time and Space
 
 TBA
-
-<!---
 
 How do temporal inequalities translate resource disparities into unequal agency in making life-and-death decisions in cancer clinics?
 

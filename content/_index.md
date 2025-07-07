@@ -34,10 +34,20 @@ title: Home
 }
 </style>
 
-My name is **Zhuofan Li (李卓凡)**. I am an Assistant Professor of Sociology at Virginia Tech, where I teach digital sociology. I received my PhD in Sociology from the University of Arizona in Summer 2024.
+Hello! I'm **Zhuofan Li (李卓凡)**. I'm interested in questions about human activities that are entangled with capitalism, technology, power, and time.
 
-I am broadly interested in network analysis, economic sociology, organizations and work, science and technology, sociology of culture, and computational social science. My main research agenda helps society better understand the relationship between knowledge and power under digital capitalism through an interesting paradox called *corporate open science*. I have also studied the moralized market of surveillance technology, temporal misalignment of agency in cancer clinics, laboratory origins of dispersed labor in computer vision, and performativity of tokenism among corporate executives. My methodological work helps translate network, language, visual, and geospatial data into theoretical insights.
+My first "big project" looks at the decentralization of power and knowledge through "corporate open science" --- an interesting phenomenon that puzzles even insiders to the industry: why would tech companies defy their interests in intellectual property to participate in open science, a movement to make knowledge and knowledge infrastructure --- publications, code, data, methodology, and benchmarks --- accessible to all? 
 
-I was born and raised in Tangshan, a coal mining, industrial city in Northern China rebuilt from ruin after one of the deadliest earthquakes in recorded history, and have been on the move ever since. On pleasantly unproductive days, I enjoy reading, skiing, watching European football, and "stargazing" on GitHub.
+This work has been funded by an American Sociological Association Doctoral Dissertation Research Improvement Grant.
 
-How to say my name: Zhuofan /jwo-fahn/, or check out this [website](https://www.chinesenamesinenglish.com/wiki/Zhuofan) for how to pronounce Chinese names.
+I have also written about facial recognition companies, image data annotators, cancer clinics, and tokenized executives. My methodological work helps sociologists translate network, language, and visual data into theoretical insights.
+
+I received my Ph.D. in Sociology from the University of Arizona in 2024 and am currently an Assistant Professor of Sociology at Virginia Tech.
+
+<center>
+<img src="profile_4.png" alt="profile" width="250"/>
+</center>
+
+I was born in Tangshan, a coal-mining, industrial city in Northern China that witnessed one of the earliest labor movements in the country and was rebuilt from ruin after one of the deadliest earthquakes in recorded history. I spent my youth in Beijing's golden years of globalization, and have been on the move ever since. On pleasantly unproductive days, I enjoy reading, skiing, watching European football, hoarding games on Steam, and "stargazing" on GitHub.
+
+How to say my name: Zhuofan /jwo-fahn/, or check out this [website](https://www.chinesenamesinenglish.com/wiki/Zhuofan) for how to pronounce Chinese names. 
