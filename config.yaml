@@ -20,7 +20,7 @@ menu:
       url: "/"
       weight: 1
     - name: "CV"
-      url: "/cv.pdf"
+      url: "/cv-zhuofan-li.pdf"
       weight: 5
 
 params:

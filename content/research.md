@@ -12,13 +12,23 @@ I don't want to admit he was right, so now I try to do the opposite -- reimagine
 
 -->
 
-### Corporate Open Science and the AI Hype
+### Open Science and Corporate Power Under Digital Capitalism
+
+Li, Zhuofan. ``Open Science and the Transformation of Corporate Power Behind the Global AI Industry'' Book manuscript in progress.
 
 Li, Zhuofan. 2024. “When Being a Data Annotator Was Not Yet a Job: The Laboratory Origins of Dispersible Labor in Computer Vision Research.” *Socius* 10:23780231241259617. DOI: [10.1177/23780231241259617](https://doi.org/10.1177/23780231241259617).
 
 <br />
 
-### Computational Social Science and Shoe Leather
+### Living Through Inequality in Time and Space
+
+Li, Zhuofan, Daniel Dohan, and Corey Abramson. 2026. "Temporal Misalignment and Unequal Agency: What Terminal Cancer Patients Teach Us about Time and Inequality." Forthcoming in *American Sociological Review*.
+
+<br />
+
+### Rethinking Qualitative Methods in the Age of AI
+
+Abramson, Corey, Tara Prendergast, Zhuofan Li, and Daniel Dohan. 2026. "Qualitative Research in an Era of AI: A Pragmatic Approach to Data Analysis, Workflow, and Computation." Forthcoming in *Annual Review of Sociology*. Preprint: [https://arxiv.org/abs/2509.12503](https://arxiv.org/abs/2509.12503).
 
 Li, Zhuofan, and Corey M. Abramson. 2025. “Ethnography and Machine Learning.” Pp. 245–72 in *The Oxford Handbook of the Sociology of Machine Learning*, edited by Christian Borch and Juan Pablo Pardo-Guerra. Oxford University Press. DOI: [10.1093/oxfordhb/9780197653609.013.36](https://doi.org/10.1093/oxfordhb/9780197653609.013.36).
 
@@ -26,18 +36,11 @@ Abramson, Corey M., Zhuofan Li, Tara Prendergast, and Martín Sánchez-Jankowski
 
 Li, Zhuofan, Daniel Dohan, and Corey M. Abramson. 2021. “Qualitative Coding in the Computational Era: A Hybrid Approach to Improve Reliability and Reduce Effort for Coding Ethnographic Interviews.” *Socius* 7:23780231211062345. DOI: [10.1177/23780231211062345](https://doi.org/10.1177/23780231211062345).
 
-
 <br />
 
 <!---
 
 ### Living Through Inequality in Time and Space
-
-TBA
-
-How do temporal inequalities translate resource disparities into unequal agency in making life-and-death decisions in cancer clinics?
-
-How do spatial inequalities shape neighborhood vulnerability to and resilience against crises?
 
 -->
 

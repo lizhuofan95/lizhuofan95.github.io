@@ -8,7 +8,7 @@ menu:
 
 ### Undergraduate
 
-Introduction to Sociology [[Syllabus](/UGintroSP25.pdf)]
+Introduction to Sociology [[Syllabus](/IntroSocSP26.pdf)]
 
 Sociology of Work [[Syllabus](/UGwork.pdf)]
 
@@ -24,13 +24,13 @@ Digital Sociology [[Syllabus](/GradDigitalSP25.pdf)]
 
 ### Miscellaneous
 
-[Demystifying the Dissertation Proposal](https://www.chronicle.com/article/demystifying-the-dissertation-proposal/) by Leonard Cassuto (Ron Breiger recommended to me)
+[Demystifying the Dissertation Proposal](https://www.chronicle.com/article/demystifying-the-dissertation-proposal/) by Leonard Cassuto (Recommended by Ron Breiger)
 
 [Writing Tips for PhD Students](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5eea8ee7c4488718b640f3c6/1592430312374/phd_paper_writing.pdf) by John H. Cochrane
 
 [The Introduction Formula](http://blogs.ubc.ca/khead/research/research-advice/formula) by Keith Head
 
-[Slides on making slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy
+[Slides on Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/) by Kieran Healy
 
 [Writing Proposals for ACLS Fellowship Competitions](https://www.acls.org/wp-content/uploads/2021/10/Writing-Fellowship-Proposals-1.pdf) by Christina M. Gillis
 
